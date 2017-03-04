@@ -1,3 +1,7 @@
 main({
 	print "hello word"
 });
+
+main({
+	print "hello 小李飞刀"
+});
